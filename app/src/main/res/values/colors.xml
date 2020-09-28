@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="ETlabel">#0BA1E4</color>
+    <color name="ETbox">#0D9DDF</color>
+    <color name="submitBtn">#4B8AEC</color>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Layout Design for Product &amp; Customer</string>
+    <string name="product_details_header">প্রোডাক্টটির তথ্য</string>
+    <string name="product_details">প্রোডাক্টটির বিবরণ:</string>
+    <string name="product_merchant_ref">প্রোডাক্টটির মার্চেন্ট রেফারেন্স:</string>
+    <string name="product_price">প্রোডাক্টটির মূল্য:</string>
+    <string name="packageOpt">প্যাকেজ অপশন:</string>
+    <string name="deliveryType">ডেলিভারি টাইপ:</string>
+    <string name="homeDeliveryOpt">হোম ডেলিভারি</string>
+    <string name="pointDeliveryOpt">পয়েন্ট ডেলিভারি</string>
+    <string name="approx_charge">*Approx. Charge: 65</string>
+    <string name="button_next">NEXT</string>
+    <string name="customer_details_header">কাস্টমারের তথ্য</string>
+    <string name="customer_name">কাস্টমারের নাম:</string>
+    <string name="customer_phone">কাস্টমারের ফোন:</string>
+    <string name="customer_home">কাস্টমারের বাড়ি/রোড নং:</string>
+    <string name="customer_district">কাস্টমারের জেলা:</string>
+    <string name="customer_thana">কাস্টমারের থানা:</string>
+    <string name="animation">animation</string>
+
+    <string-array name="package_details">
+        <item>Standard</item>
+        <item>Express</item>
+
+
+    </string-array>
+</resources>
